@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3fb152c_002D0ddf_002D4379_002Da241_002Db579a7395680/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Validate" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::A9FC06ED-4366-459B-B2DE-7334C6098A35::net6.0::LeetCode.RomanToInteger.Validate&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::A9FC06ED-4366-459B-B2DE-7334C6098A35::net6.0::LeetCode.IntegerToRoman.Validate&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::A9FC06ED-4366-459B-B2DE-7334C6098A35::net6.0::LeetCode.NumberToWords.ValidateLessThan100&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::A9FC06ED-4366-459B-B2DE-7334C6098A35::net6.0::LeetCode.NumberToWords.ValidateFull&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::A9FC06ED-4366-459B-B2DE-7334C6098A35::net6.0::LeetCode.NumberToWords&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
